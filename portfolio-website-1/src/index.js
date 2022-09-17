@@ -1,8 +1,8 @@
 // import { React } from "react";
-//in newer version of React you don't have to write this first import anymore
+// in newer version of React you don't have to write this first import anymore
 
 
-import React, { ReactDOM } from "react";
+import ReactDOM from 'react-dom'
 import App from "./App"
 import "./index.css"
 
