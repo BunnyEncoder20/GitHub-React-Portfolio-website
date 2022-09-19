@@ -85,12 +85,20 @@ header {
 ******************************** Media Queries (Tablets) ****************************
 */
 @media screen and (max-width: 1024px) {
-
+    header {
+        height: 68vh;
+    }
 }
 
 /* 
 ******************************** Media Queries (Phones) ****************************
 */
 @media screen and (max-width: 600px) {
-    
+    header{
+        height: 100vh;
+    }
+
+    .header_socials, .scroll_down {
+        display: none;
+    }
 }
