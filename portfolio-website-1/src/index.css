@@ -7,7 +7,7 @@
     border: 0;
     outline: 0;
     box-sizing: border-box;
-    list-style: none;   /*no bullet for list items*/
+    list-style: none;               /*no bullet for list items*/
     text-decoration: none; /*no underlien for the links*/
 
     /* background-color: black;
