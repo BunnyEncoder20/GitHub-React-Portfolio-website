@@ -21,7 +21,7 @@ const Header = () => {
         </div>
         {/* My image with removed bg */}
 
-        <a href="#contact" className='scroll_down'>Scroll_Down</a>
+        <a href="#footer" className='scroll_down'>Scroll_Down</a>
         {/* The Scroll_Down on the left in vertical orientation */}
       </div>
     </header>
